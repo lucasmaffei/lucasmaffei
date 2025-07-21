@@ -58,9 +58,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucasmaffei/)
 - 📧 Email: contato@lucasmaffei.com
 - 📱 Portfólio: [lucasmaffei.com](https://lucasmaffei.com)
-
----
-
-<p align="center">
-  Obrigado por visitar! 🚀
-</p>

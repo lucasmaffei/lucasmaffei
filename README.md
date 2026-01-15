@@ -1,4 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Maffei</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Lucas+Maffei;Desenvolvedor+Full+Stack;Especialista+em+Laravel+%26+React+Native;Criador+do+Articket+%26+BarTicket" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong> com foco em Laravel, React Native e soluções escaláveis para eventos e integrações.

@@ -60,7 +60,7 @@
 | [**Articket**](https://articket.com.br)           | Plataforma completa de gestão e venda de ingressos para eventos         | Laravel, Vue, Docker, Redis, MySQL  |
 | [**BarTicket**](https://articket.com.br)          | Aplicativo para venda de produtos em bares durante eventos              | Laravel, Filament, React Native, Redis      |
 | **Integrações Bancárias** | Módulo de conciliação e emissão de boletos via APIs de bancos e gateways        | Laravel, Redis, API REST, CNAB     |
-| [**VoiceCapt**](https://voicecapt.vercel.app)    | Aplicação de captura e transcrição de áudio com IA                    | Next.js, React, Vercel              |
+| [**VoiceCapt**](https://voicecapt.com)    | Aplicação de captura e transcrição de áudio com IA                    | Next.js, React, Vercel              |
 
 <!-- ---
 

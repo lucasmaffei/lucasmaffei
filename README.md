@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <sub>A maior parte do meu código vive em repositórios privados de produto.<br />Abaixo está o que é público — e o que está no ar. 🚀</sub>
+  <sub>A maior parte do meu código vive em repositórios privados de produto.<br />Abaixo está o que é público e o que está no ar. 🚀</sub>
 </p>
 
 ---
@@ -61,7 +61,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🍺 BarTicket</h3>
-      <p>Venda de bar durante eventos — implantado e operado sob contrato para o organizador.</p>
+      <p>Venda de bar durante eventos, implantado e operado sob contrato para o organizador.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/Filament-FFAA00?style=flat-square&logoColor=black" alt="Filament" />
@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/Platinum%20Partner-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Platinum Partner Mercado Pago" />
 </p>
 
-Agência de software própria — sites, sistemas e integrações sob medida. É de onde saem os produtos acima e o trabalho de pagamentos:
+Agência de software própria, com sites, sistemas e integrações sob medida. É de onde saem os produtos acima e o trabalho de pagamentos:
 
 <p align="center">
   <img src="https://img.shields.io/badge/BTG-002C5F?style=flat-square&logoColor=white" alt="BTG" />
@@ -161,7 +161,7 @@ Agência de software própria — sites, sistemas e integrações sob medida. É
 
 Bridge React Native para o **PlugPag SmartPOS** (PagBank/PagSeguro): pagamento, estorno, NFC e impressão térmica de texto, imagem e QR. Com plugin de Expo e app de exemplo.
 
-> 💡 É a peça que faz o **TapBar** rodar direto na maquininha — extraí da produção e abri.
+> 💡 É a peça que faz o **TapBar** rodar direto na maquininha. Extraí da produção e abri.
 
 ---
 
